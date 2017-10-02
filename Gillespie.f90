@@ -26,7 +26,7 @@ k1C=3
 k2C=1.5
 k3=0.5
 
-
+!! Stoichiometric coefficient of each of the reactions.
 p(1,:)=(/1,0,0/)
 p(2,:)=(/0,1,0/)
 p(3,:)=(/0,0,1/)
